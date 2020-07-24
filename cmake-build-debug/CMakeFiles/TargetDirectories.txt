@@ -1,5 +1,4 @@
 /Users/xmapp/Documents/GitHub/ffmpeg/cmake-build-debug/CMakeFiles/ffmpeg_test.dir
-/Users/xmapp/Documents/GitHub/ffmpeg/cmake-build-debug/CMakeFiles/ffmpeg.dir
 /Users/xmapp/Documents/GitHub/ffmpeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/xmapp/Documents/GitHub/ffmpeg/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/xmapp/Documents/GitHub/ffmpeg/cmake-build-debug/CMakeFiles/coding.dir

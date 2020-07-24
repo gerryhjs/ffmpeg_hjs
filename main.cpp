@@ -8,8 +8,8 @@ int main(int argv,char* args[])
 
     bool isH265=false;
     const char *inFile = args[1];//"../assets/Sample_1280x534_yuv420p.yuv";
-    const char *outFile = "../assets/Sample1.h264";
-    const char *outFile2 = "../assets/Sample1.h265";
+    const char *outFile = "/assets/Sample1.h264";
+    const char *outFile2 = "/assets/Sample1.h265";
 
     if(strcmp(args[2],"1")==0)
         isH265= true;

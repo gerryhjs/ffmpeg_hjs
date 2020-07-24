@@ -84,7 +84,7 @@ bool VideoDecoding::readFrameProc()
     int tmpW = mFormatCtx->streams[mVideoStreamIndex]->codecpar->width;
     int tmpH = mFormatCtx->streams[mVideoStreamIndex]->codecpar->height;
     char outFile[40] = { 0 };
-    sprintf(outFile, "../assets/Sample_%dx%d_yuv420p_out.yuv", tmpW, tmpH);
+    sprintf(outFile, "/assets/Sample_%dx%d_yuv420p_out.yuv", tmpW, tmpH);
 
     FILE *fd = fopen(outFile, "wb");
 

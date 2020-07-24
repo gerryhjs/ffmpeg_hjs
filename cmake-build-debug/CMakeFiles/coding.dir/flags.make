@@ -6,5 +6,5 @@ CXX_FLAGS = -g -Wall -std=c++11 -O0 -DXOP_DEBUG -isysroot /Library/Developer/Com
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/xmapp/Documents/GitHub/ffmpeg -I/Users/xmapp/Documents/GitHub/ffmpeg/libs/include 
+CXX_INCLUDES = -I/Users/xmapp/Documents/GitHub/ffmpeg/out/include 
 
