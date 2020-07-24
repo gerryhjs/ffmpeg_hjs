@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libcoding.a  CMakeFiles/coding.dir/VideoEncoding.cpp.o CMakeFiles/coding.dir/VideoDecoding.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libcoding.a
